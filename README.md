@@ -15,8 +15,8 @@ over). Then get and list java spring with the same request thrown application (e
 By calling endpoints, the record thrown to the database should be returned as a response.
 
 - In addition to the above add-delete-update listing operations
-1- It must be a service and order orders created after the date given as a parameter.
+- It must be a service and order orders created after the date given as a parameter.
 list it.
-2- It should be a service and take a word or letter value as a parameter and
+- It should be a service and take a word or letter value as a parameter and
 Let it fetch the order id of the customer and the customer with this value in it.
-3- There must be a service and list of customers who do not have an order
+- There must be a service and list of customers who do not have an order
