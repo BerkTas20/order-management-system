@@ -1,6 +1,6 @@
 # order-management-system
 Interview question
-TASK:
+- TASK:
 - Local database installation (mysql, postgresql or any database)
 - Start the java application
 - There should be two tables and these tables should be related to each other.
