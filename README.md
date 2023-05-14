@@ -14,7 +14,7 @@ You can register, it doesn't matter. Java request to open a table in the databas
 over). Then get and list java spring with the same request thrown application (example postman ...)
 By calling endpoints, the record thrown to the database should be returned as a response.
 
-- In addition to the above add-delete-update listing operations
+- In addition to the above add-delete-update listing operations.
 - It must be a service and order orders created after the date given as a parameter.
 list it.
 - It should be a service and take a word or letter value as a parameter and
